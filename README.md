@@ -46,4 +46,4 @@ Our cost-effective Automation system simplifies maintenance and monitoring tasks
 - Light intensity: 3000 lux, 3200 lux, 3100 lux
 
 ## Authors
-Pothuru Rohan, Srinivas, Nivriti Vytla, Nikunj Inamdar, Sreenidhy Pyvardha, Pranav, Sai
+Pothuru Rohan, Srinivas, Nivriti Vytla, Nikunj Inamdar, Sreenidhy Pyvardha, Pranav Sai
